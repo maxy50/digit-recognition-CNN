@@ -1,7 +1,7 @@
-Flask==3.0.0
-tensorflow==2.20.0
-opencv-python-headless==4.10.0.84
-numpy==1.26.4
-pillow==11.0.0
-gunicorn==23.0.0
-h5py==3.12.1
+Flask>=3.0.0
+tensorflow>=2.15.0
+opencv-python-headless>=4.8.0
+numpy>=1.26.0
+pillow>=10.0.0
+gunicorn>=21.0.0
+h5py>=3.9.0
