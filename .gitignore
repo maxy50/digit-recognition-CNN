@@ -5,3 +5,5 @@ __pycache__/
 .vscode/
 .DS_Store
 *.ipynb
+train_and_save_model.py
+Untitled.ipynb
